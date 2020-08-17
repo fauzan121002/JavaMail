@@ -3,9 +3,9 @@ Example of Java Mail API with Logs that provides a platform-independent and prot
 
 Download Java Mail Lib Here : https://maven.java.net/content/repositories/releases/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar
 
+```java
 package mail; // or <your package name>
 
-```java
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
